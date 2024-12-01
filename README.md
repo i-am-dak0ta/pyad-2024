@@ -1,4 +1,4 @@
-# Анализ факторов, влияющих на оценки вин
+# [Анализ факторов, влияющих на оценки вин](https://colab.research.google.com/drive/13x1txhegQK0OZ0CoUMKGwNH-yCD_79P-?usp=sharing)
 
 ## Описание проекта
 
